@@ -3,7 +3,7 @@ InterestingGames
 
 A list of games that are noteworthy.
 
-I mainly asses in terms of game mechanics.
+I mainly asess in terms of game mechanics.
 
 
 -----------------------------------
