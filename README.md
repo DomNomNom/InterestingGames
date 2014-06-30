@@ -30,3 +30,8 @@ I mainly asses in terms of game mechanics.
     ![screenshot](http://www.ludumdare.com/compo/wp-content/compo2/342546/11080-shot2.png)
     + 1-bit (two color) graphics style
     + Figuring out ship positions from several different methods of partially detecting ship locations.
+
+* [Lonely Boy]()
+    ![screenshot](http://www.ludumdare.com/compo/wp-content/compo2/342546/30207-shot1.png)
+    + The outline-only style where only what is neccesary to the experience is drawn. A blend between astetic and game mechanic!
+    + It feels like a game equivalent of a written short storey.
