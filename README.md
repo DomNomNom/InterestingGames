@@ -11,6 +11,6 @@ A list of games that are noteworthy.
     attack power is contained in blocks. blocks can be gathered to become more powerful. blocks are ejected when spending power.
     nice alternative ending.
 
-* [Denudation](https://dl.dropboxusercontent.com/u/5333420/denudation.html)
+1. [Denudation](https://dl.dropboxusercontent.com/u/5333420/denudation.html)
    omg
    lol
